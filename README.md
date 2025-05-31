@@ -153,7 +153,7 @@ We love contributions! If you have ideas or improvements, feel free to:
 
 ## 📝 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [GPL-3.0 License](https://github.com/mk990/MkApi/blob/master/LICENSE).
 
 ---
 
